@@ -1,6 +1,6 @@
 # Halloween Pumpkin
 
 #### Packages
-Turtle
+Turtle Graphics
 
 [ANIMATON-IMAGE](image.png).
