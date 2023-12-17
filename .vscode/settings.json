@@ -3,6 +3,6 @@
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "c:\\Users\\Niche\\.Projects\\IT450 Phase1\\jturtle-0.1.1.jar"
+        ""
     ]
 }
